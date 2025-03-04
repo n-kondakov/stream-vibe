@@ -27,7 +27,7 @@
 - **Методология работы с Git**: Git Flow + Conventional Commits
 - **Система управления задачами**: GitHub Projects
 - **CI/CD**: GitHub Actions
-- **Среда разработки**: VS Code&#x20;
+- **Среда разработки**: WebStorm&#x20;
 
 ## 📂 Структура проекта
 
@@ -37,8 +37,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone git@github.com:username/frontend-course.git
-   cd frontend-course
+   git clone git@github.com:username/stream-vibe.git
+   cd stream-vibe
    ```
 2. Установите зависимости:
    ```bash
