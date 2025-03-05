@@ -15,9 +15,11 @@ jobs:
           cache: 'npm'
 
       - name: Install dependencies
+        working-directory: ./
         run: npm install
 
       - name: Build Minista
+        working-directory: ./
         run: npm run build
 
       - name: Deploy to GitHub Pages
